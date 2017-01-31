@@ -1,0 +1,23 @@
+.logo {
+	width: 50%;
+	float: left;
+}
+
+.menu {
+	width:15%;
+	float: left;
+}
+
+.menu-last {
+	width:15%;
+	float: right;
+}
+
+.photos {
+	width: 50%;
+}
+
+footer {
+	background-color: #000000;
+	color: #FFFFFF;
+}
