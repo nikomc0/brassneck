@@ -14,10 +14,30 @@
 }
 
 .photos {
+	clear: both;
+	float: left;
+	width: 48%;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 80px;
+}
+
+.content {
+	clear: none;
+	float: right;
 	width: 50%;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+img {
+	margin-bottom: 10px;
+	width: 100%;
+	padding-right: 10px;
 }
 
 footer {
+	clear: both;
 	background-color: #000000;
 	color: #FFFFFF;
 }
