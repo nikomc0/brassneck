@@ -30,6 +30,17 @@
 	margin-right: 0px;
 }
 
+.content h2{
+	margin-top: 0px;
+
+}
+
+.entry-title {
+	border-top: 1px solid #000000;
+	margin-bottom: 50px;
+
+}
+
 img {
 	margin-bottom: 10px;
 	width: 100%;
